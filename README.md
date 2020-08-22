@@ -147,6 +147,7 @@
 - [XBT.eu](https://www.xbt.eu) - Bitcoin Blockchain Statistics
 - [Xotika.tv](https://twitter.com/bitcoinerrorlog/status/895335674471043073) - Bitcoin Social Video-Streaming Platform
 - Zebpay - One of India's largest Bitcoin exchanges
+- CryptoCasinos - Largest Bitcoin guide portal (https://cryptocasinos.com/)
 
 ### Meetup groups and other organizations:
 
